@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.image-section {
+  width: 25%;
+  padding: 10px;
+}
+
+.image-section img {
+  width: 100%;
+  height: auto;
+}
+
+.g {
+  position:relative;
+  background-color: #341010;
+
+  top: 20%;
+  padding: 10px;
+  border-radius: 5px;
+}
